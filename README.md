@@ -1,8 +1,7 @@
-# FUTURE_DS_01
+# DATA_ANALYTICS
 
 ## Candidate Details
-- Name: BONTHALAKOTI RANGA SAI NITHIN CHANDRA
-- CIN: FIT/JUN26/DS19837
+- Name: Velagala Shyam Mani Sampath Reddy
 
 ## Business Sales Dashboard
 
